@@ -23,6 +23,9 @@ identifiers:
   - type: doi
     value: 10.5281/zenodo.23310735
     description: "Version 1.0.1"
+  - type: doi
+    value: 10.5281/zenodo.23323043
+    description: "Version 1.0.2"
 url: "https://github.com/Apsiape/price-of-time-order"
 repository-code: "https://github.com/Apsiape/price-of-time-order"
 preferred-citation:
