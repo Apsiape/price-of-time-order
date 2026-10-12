@@ -1,0 +1,15 @@
+/paper/build/
+__pycache__/
+*.pyc
+*.olean
+*.ilean
+*.trace
+.lake/
+*.aux
+*.log
+*.out
+*.toc
+*.blg
+*.bbl
+*.synctex.gz
+*.stackdump
