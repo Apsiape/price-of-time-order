@@ -10,10 +10,10 @@
       "name": "Mghirbi, Nidhal"
     }
   ],
-  "description": "<p>A physical device acts in time: inputs arrive, outputs are released and can no longer be touched, some systems are kept, and some must come back. This paper shows that the optimal work rate of such a device, over many uses at vanishing error, is fixed by one quantity, the least entropy that one implementation must add to its own record, plus the energy it hands over to the carriers, against the most demanding observer its schedule allows.</p><ul><li><strong>One law for every schedule</strong> in which each borrowed system comes back with the Hamiltonian it arrived with: Landauer's bound, the thermodynamic capacity of time-covariant channels, the real-time cost of channels, interactive processes and the batch cost of a channel whose clock must be returned are special cases.</li><li><strong>Order, not speed.</strong> The cost survives arbitrarily slow operation; an operation can cost more merely because some of its outputs must leave sooner.</li><li><strong>Which carriers to hold.</strong> For linear tasks the price of a schedule is a rank, and deciding whether holding a given number of carriers lowers it at all is NP-complete.</li><li><strong>A witness.</strong> A two-qubit process that is free when held costs every early-release device at least 0.87 kT ln 2 per episode at 1% error, when the energy and entropy budgets of its controller and battery total at most 0.025 (energies in kT ln 2, entropies in bits); the error that enters is fixed by three Pauli measurements on one probe. A classical version needs no coherence.</li><li><strong>Beyond thermodynamics.</strong> Order has a price in entanglement and coherence theory too, with no single exchange rate between theories.</li><li><strong>Holding is decidable, releasing is not.</strong> In thermodynamics, whether a channel is free is decidable when outputs may be held and undecidable when they must be released; in the other theories examined, both are decidable.</li></ul><p>All rates here are optimal asymptotic work rates at vanishing error over the complete interaction, with hardware allowed to grow; where a controller comes back only approximately, its actual mean energy and entropy are also refunded up to sublinear changes.</p><p>This record archives the manuscript, its TeX source and its machine checks (Python, and Lean with Mathlib). The manuscript is the authority for exact statements and hypotheses; the verification notes list what is checked by machine and what is proved only in the text. How the work was done, including the use of AI models, is described in the manuscript.</p><p>This paper is one of four on the thermodynamics of time order: <em>Only quantum channels save work by waiting</em> (https://github.com/Apsiape/save-work-by-waiting); <em>The work cost of answering in real time</em> (https://github.com/Apsiape/answering-in-real-time); <em>The price of keeping time</em> (https://github.com/Apsiape/price-of-keeping-time).</p><p><strong>Scoped licenses:</strong> the manuscript, PDF and TeX source are licensed under Creative Commons Attribution 4.0 International (CC-BY-4.0). The software and machine-readable verification artifacts are additionally available under the MIT License. See RIGHTS.md in the archive. The aggregate Other (Open) category represents this mixed-license package.</p>",
+  "description": "<p>A physical device acts in time: inputs arrive, outputs are released and can no longer be touched, some systems are kept, and some must come back. This paper shows that the optimal work rate of such a device, over many uses at vanishing error, is fixed by one quantity, the least entropy that one implementation must add to its own record, plus the energy it hands over to the carriers, against the most demanding observer its schedule allows.</p><ul><li><strong>One law for every schedule</strong> in which each borrowed system comes back with the Hamiltonian it arrived with: Landauer's bound, the thermodynamic capacity of time-covariant channels, the real-time cost of channels, interactive processes and the batch cost of a channel whose clock must be returned are special cases.</li><li><strong>Order, not speed.</strong> The cost survives arbitrarily slow operation; an operation can cost more merely because some of its outputs must leave sooner.</li><li><strong>Which carriers to hold.</strong> For linear tasks the price of a schedule is a rank, and deciding whether holding a given number of carriers lowers it at all is NP-complete.</li><li><strong>A witness.</strong> A two-qubit process that is free when held costs every early-release device at least 0.87 kT ln 2 per episode at 1% error, when the energy and entropy budgets of its controller and battery total at most 0.025 (energies in kT ln 2, entropies in bits); the error that enters is fixed by three Pauli measurements on one probe. A classical version needs no coherence.</li><li><strong>Beyond thermodynamics.</strong> Order has a price in entanglement and coherence theory too, with no single exchange rate between theories.</li><li><strong>Holding is decidable, releasing is not.</strong> In thermodynamics, whether a channel is free is decidable when outputs may be held and undecidable when they must be released; in the other theories examined, both are decidable.</li></ul><p>All rates here are optimal asymptotic work rates at vanishing error over the complete interaction, with hardware allowed to grow; where a controller comes back only approximately, its actual mean energy and entropy are also refunded up to sublinear changes.</p><p>This record archives the manuscript, its TeX source and its machine checks (Python, and Lean with Mathlib). The manuscript is the authority for exact statements and hypotheses; the verification notes list what is checked by machine and what is proved only in the text. How the work was done, including the use of AI models, is described in the manuscript.</p><p>This paper is one of four on the thermodynamics of time order: <em>Only quantum channels save work by waiting</em> (<a href=\"https://doi.org/10.5281/zenodo.23310624\">doi:10.5281/zenodo.23310624</a>; https://github.com/Apsiape/save-work-by-waiting); <em>The work cost of answering in real time</em> (<a href=\"https://doi.org/10.5281/zenodo.23310628\">doi:10.5281/zenodo.23310628</a>; https://github.com/Apsiape/answering-in-real-time); <em>The price of keeping time</em> (<a href=\"https://doi.org/10.5281/zenodo.23310632\">doi:10.5281/zenodo.23310632</a>; https://github.com/Apsiape/price-of-keeping-time).</p><p><strong>Scoped licenses:</strong> the manuscript, PDF and TeX source are licensed under Creative Commons Attribution 4.0 International (CC-BY-4.0). The software and machine-readable verification artifacts are additionally available under the MIT License. See RIGHTS.md in the archive. The aggregate Other (Open) category represents this mixed-license package.</p>",
   "license": "other-open",
   "access_right": "open",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "language": "eng",
   "keywords": [
     "quantum thermodynamics",
@@ -25,19 +25,22 @@
   ],
   "related_identifiers": [
     {
-      "identifier": "https://github.com/Apsiape/save-work-by-waiting",
+      "identifier": "10.5281/zenodo.23310624",
       "relation": "references",
-      "resource_type": "publication-preprint"
+      "resource_type": "publication-preprint",
+      "scheme": "doi"
     },
     {
-      "identifier": "https://github.com/Apsiape/answering-in-real-time",
+      "identifier": "10.5281/zenodo.23310628",
       "relation": "references",
-      "resource_type": "publication-preprint"
+      "resource_type": "publication-preprint",
+      "scheme": "doi"
     },
     {
-      "identifier": "https://github.com/Apsiape/price-of-keeping-time",
+      "identifier": "10.5281/zenodo.23310632",
       "relation": "references",
-      "resource_type": "publication-preprint"
+      "resource_type": "publication-preprint",
+      "scheme": "doi"
     }
   ],
   "notes": "CC-BY-4.0 applies to the manuscript; MIT applies to the software and verification artifacts. RIGHTS.md specifies the scopes."

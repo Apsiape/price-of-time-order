@@ -2,7 +2,7 @@ cff-version: 1.2.0
 message: "Please cite the manuscript; this repository supplies its source and verification artifacts."
 type: software
 title: "The price of time order"
-version: 1.0.0
+version: 1.0.1
 date-released: 2026-10-11
 license:
   - CC-BY-4.0
@@ -12,6 +12,14 @@ authors:
     given-names: Seth
   - family-names: Mghirbi
     given-names: Nidhal
+doi: 10.5281/zenodo.23310622
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.23310622
+    description: "Concept DOI: all versions, resolves to the latest"
+  - type: doi
+    value: 10.5281/zenodo.23310623
+    description: "Version 1.0.0"
 url: "https://github.com/Apsiape/price-of-time-order"
 repository-code: "https://github.com/Apsiape/price-of-time-order"
 preferred-citation:
@@ -23,4 +31,5 @@ preferred-citation:
     - family-names: Mghirbi
       given-names: Nidhal
   year: 2026
+  doi: 10.5281/zenodo.23310622
   notes: "Preprint with accompanying verification artifacts; see RIGHTS.md for license scope."
