@@ -6,7 +6,7 @@ Unless separately credited or stated otherwise, the authors' material in this
 repository is licensed under the **Creative Commons Attribution 4.0
 International License (CC BY 4.0)**. This includes the manuscript (paper/main.pdf),
 its TeX source (paper/main.tex and paper/refs.bib), documentation, and the accompanying archive.
-See [the full license](LICENSE-CC-BY-4.0.txt).
+See [the full license](LICENSE).
 
 The authors' software and machine-readable verification artifacts are
 **additionally available under the MIT License**, at the recipient's option.

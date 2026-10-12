@@ -7,6 +7,8 @@ Seth Douglas and Nidhal Mghirbi — October 2026.
 [Read the manuscript](paper/main.pdf) · [TeX source](paper/main.tex) ·
 [Machine checks](verification/README.md)
 
+A short letter summarizing all four papers is *Order, not speed: the work price of letting go* ([doi:10.5281/zenodo.23323808](https://doi.org/10.5281/zenodo.23323808); [Apsiape/order-not-speed](https://github.com/Apsiape/order-not-speed)).
+
 A physical device acts in time: inputs arrive, outputs are released and can no longer be touched, some systems
 are kept, and some must come back. This paper shows that the optimal work rate of such a device, over many uses at vanishing error, is fixed by one quantity,
 the least entropy that one implementation must add to its own record, plus the energy it hands over to the carriers, against the most demanding observer its schedule allows.
